@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Program Files\GitBash\git-cmd.exe" />
+    <option name="myShellPath" value="C:\Program Files\GitBash\bin\sh.exe" />
   </component>
 </application>
