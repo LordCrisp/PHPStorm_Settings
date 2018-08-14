@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="84a18bfe-92b4-4252-8280-dffddbdd4f45" name="Skole1" url="http://ftp.techcollege.dk">
+      <webServer id="84a18bfe-92b4-4252-8280-dffddbdd4f45" name="ITCN 1" url="http://ftp.techcollege.dk">
         <fileTransfer host="ftp.techcollege.dk" port="21001" rootFolder="/stef971f/_www1_apache">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
