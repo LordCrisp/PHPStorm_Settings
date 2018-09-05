@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="af67443f-22ee-4a0f-a44d-94e71c57808a" name="ITCN Apache - Web 2" url="http://ftp.techcollege.dk">
+        <fileTransfer host="ftp.techcollege.dk" port="21001" rootFolder="/stef971f/_www2_apache/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21001" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="84a18bfe-92b4-4252-8280-dffddbdd4f45" name="ITCN Apache - Web 1" url="http://ftp.techcollege.dk">
+        <fileTransfer host="ftp.techcollege.dk" port="21001" rootFolder="/stef971f/_www1_apache">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21001" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
